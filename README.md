@@ -1,7 +1,7 @@
 # password_gui
 This is something I put together over a weekend for personal use and decided to add it here for anyone else. 
 
-It's a pretty simple GUI that I think is pretty useful, i used 'customtkinter' tkinter from https://github.com/TomSchimansky/CustomTkinter
+It's a pretty simple GUI that I think is pretty useful, i used 'customtkinter' from https://github.com/TomSchimansky/CustomTkinter
 
 This is the front of the GUI and it displays the current password accounts you have and you click on one in the list box and hit the show details button and then
 it adds the rest of the details to be displayed.
